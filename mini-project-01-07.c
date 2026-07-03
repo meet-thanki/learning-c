@@ -1,6 +1,6 @@
-/*Today, I spent my time to revise and apply some crucial maths concepts to code,
+/*Today, I spent my time to revise and apply some fundamental maths concepts to code,
 namely quadratic equations and vector algebra. My foundational logic building in
-Python is helping me to understand syntax of C better through the mode of mini projects like these!*/
+Python is helping me to understand syntax of C better through the means of mini projects like these!*/
 
 
 #include <stdio.h>
