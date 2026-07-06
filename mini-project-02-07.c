@@ -1,3 +1,6 @@
+/*Today, I just made one mini project on finding the cross product of 2 vectors and finding unit vector when a vector is given.
+I wanted to brush up and apply these interesting math concepts to real code.*/
+
 #include <stdio.h>
 #include <math.h>
 
@@ -68,6 +71,3 @@ double unit(double vector[]){
 
     return printf("The unit vector of given vector is: (%.2lf, %.2lf, %.2lf)", unit1[0], unit1[1], unit1[2]);
 }
-
-
-// mini project 2:
