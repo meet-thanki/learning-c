@@ -1,3 +1,5 @@
+// The title was intended to be: Translating 3D Geometry, Matrices and Determinants to coding.
+
 /*Today, I made 2 mini projects, one on 3D geometry and one on Matrices and Determinants. I have always loved
 mathematics and I really wanted to experience it in coding. Along the way, I learnt about 2D arrays too.
 This is one of the best mini projects I believe I have done so far. Thank you for reading!*/
