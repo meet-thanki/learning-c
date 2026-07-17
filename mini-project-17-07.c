@@ -1,4 +1,6 @@
 // Today, I practiced pointers again with the help of pass by reference to a function mini project.
+/* PS: I pushed this to origin main using git command line, so there is no title here for this project. 
+I shall improve upon it in later projects. */
 
 #include <stdio.h>
 
