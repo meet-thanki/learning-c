@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Error handling in read mode
+
 int main(){
     FILE *fptr;
     char myString[100];
